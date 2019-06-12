@@ -1,3 +1,4 @@
-p { font-size: 20px; }
+p {line-height: 1.5; margin-bottom: 15; font-size: 20px; }
 #texto1 { font-size: 100px; }
 .titulo{font-size:  50px ;font-family: 'Josefin Slab', serif;}
+body {background-color: aqua; color: brown; text-align: center; }
