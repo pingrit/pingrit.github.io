@@ -3,4 +3,4 @@ p {line-height: 1.5; margin-bottom: 15; font-size: 20px; }
 .titulo{font-size:  50px ;font-family: 'Josefin Slab', serif;}
 body {background-color: aqua; color: brown; text-align: center; }
 #autor {font-style: italic; margin-bottom: 30px; font-family: 'Josefin Slab', serif; font-family: 'BioRhyme Expanded', serif;}
-#cancion {margin: auto; padding: 20px 0; text-align: left; width: 400px;}
+.cancion {margin: auto; padding: 20px 0; text-align: left; width: 400px;}
