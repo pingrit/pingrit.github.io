@@ -7,4 +7,4 @@ body {background-color: aqua; color: brown; text-align: center; }
 
  #parrafo1:first-letter { font-size: 58px; line-height: 1;margin:2px 5px 0 0;}
  p:nth-child(2) {background: palevioletred}
- p:nth-child(4) {background: rgb(200, 255, 0); font-family: 'Aguafina Script', cursive;} 
+ p:nth-child(4) {background: rgb(200, 255, 0);font-size: 50px; font-family: 'Aguafina Script', cursive;} 
