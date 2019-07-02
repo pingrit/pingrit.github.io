@@ -52,3 +52,18 @@ padding: 20px;
     padding: 20px;
     border-top: 2px solid  #999999;
 }
+article {
+    background: #fffbcc;
+    border: 1px solid #999999;
+    padding: 20px;
+    margin-bottom: 15 px;  
+}
+article footer {
+text-align: right;
+}
+time{
+    color: #999999;
+}
+figcaption {
+    font: italic 14px verdana, sens-serif; 
+}
