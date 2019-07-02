@@ -21,23 +21,23 @@ text-align: left;
 }
 #cabecera {
 background: #FFFBB9;
-border: 1px solid #999999
-padding: 20px
+border: 1px solid #999999;
+padding: 20px;
 }
 #menu {
-   background: #cccccc
-   padding: 5px 15px 
+   background: #cccccc;
+   padding: 5px 15px;
 }
-#menu li{
+#menu li {
     display: inline-block;
     list-style: none;
-    padding: 5px
+    padding: 5px;
     font: bold 14px verdana, sans-serif; 
 }
 #seccion {
-    float: left
+    float: left;
     width: 660px;
-    margin: 20px
+    margin: 20px;
 }
 #columna {
     float: left;
