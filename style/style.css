@@ -68,12 +68,12 @@ figcaption {
     font: italic 14px verdana, sans-serif; 
 }
 div {
-    width: 100px;
+    width: 100%;
     margin: 20px;
     padding: 1px;
     border: 1px solid #000000;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    
+
 }
